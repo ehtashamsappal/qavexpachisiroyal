@@ -1,0 +1,86 @@
+================================================================================
+QAVEX PACHISI ROYAL — GOOGLE PLAY STORE LISTING
+Game ID: qavexpachisiroyal | Package: com.qavex.qavexpachisiroyal
+Version: 1.0.0+1 | Category: Board | Developer: muhammad ehtasham (QAVEX)
+Website: https://www.qavex.company/ | Support: games@qavex.company | +923375621550
+================================================================================
+
+APP NAME (30 chars max)
+--------------------------------------------------------------------------------
+Pachisi Royal — Classic Board
+
+SHORT DESCRIPTION (80 chars max)
+--------------------------------------------------------------------------------
+The ancient Indian game of kings! Classic Pachisi: capture, blockade & race home.
+
+FULL DESCRIPTION (4000 chars max)
+--------------------------------------------------------------------------------
+♛ THE ANCIENT GAME OF KINGS, REIMAGINED ♛
+
+Pachisi — the 1,500-year-old royal Indian race game that inspired Ludo — returns
+in its most majestic edition yet. Command four armies, cast the cowrie dice,
+capture your rivals, build blockades, and race all four pieces home to claim
+the crown.
+
+🎲 OFFICIAL CLASSIC RULES
+• Authentic Pachisi: 52-square royal circuit, 8 star-marked safe castles,
+  blockades, captures, extra turns, and exact-roll home finishes
+• Digital cowrie dice (2d6) with the beloved doubles & six traditions
+• Three consecutive doubles forfeits the turn — fortune punishes greed!
+
+⚔️ 6 GAME MODES
+• Classic Royal — the full 4-player royal court
+• Quick Match — a swift duel against the AI
+• Vs AI — face 1–3 AI courtiers, Easy to Expert
+• Pass & Play — 2–4 humans, one device
+• Timed Blitz — 5 minutes on the clock, most progress wins
+• Tournament Ladder — climb 5 rungs from Easy to Expert
+
+🤖 4 AI DIFFICULTIES
+Time-capped tactical AI: Easy plays for fun, Medium punishes mistakes,
+Hard looks ahead, and Expert plans like a true maharaja.
+
+🎨 8 ROYAL THEMES
+Maharaja Court (signature royal red & gold), Midnight, Ocean, Neon, Desert,
+Forest, Mono Ink, Sunset — each with a unique 6-color palette, unlockable
+with play-earned Royal Coins.
+
+🏆 52 ACHIEVEMENTS • DAILY STREAKS • ROYAL COINS
+Earn coins by playing, unlock dice skins and court frames, keep your daily
+streak alive, and fill the Hall of Fame.
+
+👨‍👩‍👧 FAMILY FIRST
+• Kids Mode: capture-free, blockade-free racing for young players
+• Accessibility: larger text, high contrast, reduce motion, haptics control
+• 100% OFFLINE — no account, no ads, no tracking, ever
+
+☕ ONE OPTIONAL TIP
+A single voluntary "Buy Me a Coffee" ($0.99) supports the solo developer.
+The entire game is free without it.
+
+HOW TO PLAY
+Roll a 6 to march a piece out of your yard. Race around the cross-shaped
+board, capture lone rivals (they return to start!), shelter on star castles,
+stack pairs into blockades, and bring all four pieces home with exact rolls.
+
+Developed with ♛ by QAVEX — muhammad ehtasham
+https://www.qavex.company/ • games@qavex.company
+
+WHAT'S NEW (1.0.0)
+--------------------------------------------------------------------------------
+Initial royal release: 6 modes, 4 AI difficulties, 8 themes, 52 achievements,
+Kids Mode, offline play, and the full classic Pachisi ruleset.
+
+CONTENT RATING
+--------------------------------------------------------------------------------
+Everyone. No violence beyond abstract board captures; Kids Mode available.
+
+PRIVACY
+--------------------------------------------------------------------------------
+No data collected. No accounts, no ads, no trackers. See PRIVACY_POLICY.txt.
+
+GRAPHIC ASSETS (in store_art/)
+--------------------------------------------------------------------------------
+feature_graphic.png (1024x500)
+screenshot_1_home.png … screenshot_8_howto.png (1080x1920)
+icon.png (512x512), splash.png, cross_board_art.png (in assets/images/)

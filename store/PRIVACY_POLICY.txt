@@ -1,0 +1,59 @@
+================================================================================
+PRIVACY POLICY — QAVEX PACHISI ROYAL
+Effective: October 10, 2026 | Version 1.0.0
+Developer: muhammad ehtasham (QAVEX)
+Website: https://www.qavex.company/
+Email: games@qavex.company
+Phone: +923375621550
+================================================================================
+
+1. OVERVIEW
+Qavex Pachisi Royal ("the Game") is an offline board game. This policy
+describes what information the Game does — and does not — handle.
+
+2. DATA WE DO NOT COLLECT
+The Game collects no personal data whatsoever:
+  • No accounts, logins, names, emails, or phone numbers.
+  • No device identifiers, advertising IDs, or location data.
+  • No analytics, crash reporters, or tracking SDKs.
+  • No advertisements of any kind.
+
+3. DATA STORED ON YOUR DEVICE
+All game progress — profile name/avatar, Royal Coins, statistics,
+achievements, daily streak, settings, themes, and shop ownership — is stored
+locally on your device using the platform's private app storage
+(SharedPreferences on Android). It never leaves your device and is deleted
+if you uninstall the Game.
+
+4. IN-APP PURCHASE
+The Game offers exactly one optional in-app purchase: "Buy Me a Coffee"
+($0.99, product ID: qavexpachisiroyalcoffee), a voluntary tip for the
+developer. The purchase is processed entirely by Google Play; QAVEX receives
+no payment details, card numbers, or billing information — only an
+anonymised confirmation that a purchase occurred.
+
+5. CHILDREN
+The Game is safe for all ages. Because no personal data is collected and
+there is no chat, user-generated content, or advertising, the Game is
+suitable for children. An optional Kids Mode further softens gameplay
+(no captures, no harsh blockades). Parents: all settings are on-device and
+under your control.
+
+6. PERMISSIONS
+The Game requests no dangerous Android permissions. It functions fully
+offline; an internet connection is required only if you choose to make the
+optional tip purchase (handled by Google Play).
+
+7. DATA SHARING & SALE
+We do not sell, rent, or share any data — because we collect none.
+
+8. YOUR RIGHTS & CONTACT
+Since no personal data is processed, there is nothing to access, correct,
+or delete on our servers. For any privacy question, contact:
+  games@qavex.company | +923375621550 | https://www.qavex.company/
+
+9. CHANGES
+If this policy changes, the updated version will ship with the Game and be
+published at https://www.qavex.company/.
+
+© 2026 QAVEX — muhammad ehtasham. All rights reserved.

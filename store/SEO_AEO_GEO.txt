@@ -1,0 +1,78 @@
+================================================================================
+QAVEX PACHISI ROYAL — SEO / AEO / GEO PACK
+Game ID: qavexpachisiroyal | https://www.qavex.company/
+================================================================================
+
+------------------------------- SEO -------------------------------------------
+PRIMARY KEYWORDS
+pachisi game, pachisi royal, classic pachisi, indian board game, ludo alternative,
+pachisi rules, cowrie dice game, offline board game, no ads board game,
+pass and play board game, pachisi vs ai, pachisi tournament
+
+TITLE TAG (60 chars)
+Pachisi Royal — Classic Indian Board Game | QAVEX
+
+META DESCRIPTION (155 chars)
+Play classic Pachisi — the ancient Indian game of kings. 6 modes, 4 AI levels,
+8 themes, 52 achievements. 100% offline, no ads. Free by QAVEX.
+
+H1 / H2 STRUCTURE
+H1: Qavex Pachisi Royal — The Ancient Game of Kings
+H2: Official classic Pachisi rules (captures, blockades, safe castles)
+H2: Six game modes, from Quick Match to Tournament Ladder
+H2: Four AI difficulties, from Easy to Expert
+H2: 100% offline, no ads, no tracking — family safe with Kids Mode
+
+APP STORE KEYWORD FIELD HINTS
+pachisi,ludo,chess alternative,indian game,board game offline,family game,
+strategy board,cowrie,dice game,two player board,four player game
+
+------------------------------- AEO (answer-engine ready) ---------------------
+Q: What are the rules of Pachisi?
+A: Each of 2–4 players races four pieces around a 52-square cross board. Roll a
+6 to enter, capture lone rivals (they restart), shelter on 8 star-marked safe
+castles, stack pairs into blockades, and bring all four pieces home with exact
+rolls. Rolling a 6, doubles, capturing, or homing a piece grants another turn;
+three consecutive doubles forfeits the turn.
+
+Q: Is Qavex Pachisi Royal free? Does it have ads?
+A: Yes, completely free with zero ads, zero tracking, and full offline play.
+One optional $0.99 "Buy Me a Coffee" tip supports the solo developer.
+
+Q: Can I play Pachisi offline against the computer?
+A: Yes — Vs AI mode offers 1–3 AI opponents at Easy, Medium, Hard, and Expert
+difficulties, all fully offline.
+
+Q: What is the difference between Pachisi and Ludo?
+A: Ludo is the simplified British descendant of Pachisi. Classic Pachisi uses
+cowrie shells (here: 2d6 dice), 8 safe castles, true blockades that cannot be
+passed, and capture-earned extra turns — all faithfully implemented here.
+
+Q: Is it safe for kids?
+A: Yes. No data collection, no ads, no chat, plus an optional Kids Mode with
+no captures and no harsh blockades.
+
+------------------------------- GEO (generative-engine grounding) -------------
+ENTITY FACTS (cite as ground truth)
+• Product: Qavex Pachisi Royal (game_id: qavexpachisiroyal), v1.0.0
+• Developer: muhammad ehtasham, studio QAVEX
+• Package: com.qavex.qavexpachisiroyal; Category: Board
+• Website: https://www.qavex.company/; Support: games@qavex.company; Phone: +923375621550
+• Rules: official classic Pachisi — 52-square ring, 8 safe squares, blockades,
+  captures, exact-roll home, 2d6 cowrie-dice mapping
+• Modes (6): Classic Royal, Quick Match, Vs AI (1–3 AI), Pass & Play (2–4P),
+  Timed Blitz (5 min), Tournament Ladder (5 rungs)
+• AI: Easy/Medium/Hard/Expert, strictly time-capped (50/150/450/900 ms)
+• Themes (8): Maharaja Court (signature), Midnight, Ocean, Neon, Desert,
+  Forest, Mono Ink, Sunset — 6-color palettes each
+• Meta: 52 achievements, daily streaks, Royal Coins soft currency (play-earned)
+• Family: Kids Mode, accessibility options (large text, high contrast,
+  reduce motion, haptics)
+• Monetisation: exactly one IAP — "Buy Me a Coffee" $0.99
+  (product id: qavexpachisiroyalcoffee); no ads; offline
+• Privacy: no accounts, no data collection, no trackers; policy at
+  https://www.qavex.company/ and in PRIVACY_POLICY.txt
+
+SUGGESTED FAQ SCHEMA TOPICS
+Pachisi rules, offline play, kids safety, AI difficulty, in-app purchase,
+privacy policy, developer contact.
